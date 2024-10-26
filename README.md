@@ -95,3 +95,6 @@ If you are not an IBM employee and want to make a documentation contribution, go
      2. Try to keep the placeholders consistent at least within one document, e.g., do not use `design-doc`, `$DESIGN_ID`, `$DDOC`, `$DDOCS` in the same document. Try to use the most used in the whole doc (in this example, case `$DDOC`).
     3. Try to use the `$SERVICE_URL` placeholder at the beginning of each path (in `http` and language blocks too).
     4. Try to avoid placeholders in the `curl`, `java`, `node`, `python`, `go` examples except for the "special" `$SERVICE_URL`, use realistic data instead if you can e.g. `animaldb` instead of the `$DATABASE` placeholder etc
+
+
+## Created And Designed By - Aantrreksh Singh
